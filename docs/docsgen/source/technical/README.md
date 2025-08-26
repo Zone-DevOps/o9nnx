@@ -36,6 +36,42 @@ Runtime execution and performance focus:
 - **Performance Optimization**: Runtime optimization techniques
 - **Error Handling**: Robust error recovery mechanisms
 
+### 🌐 [Multi-Device Architecture](multi-device-architecture.md)
+Distributed execution and parallel computation:
+- **Multi-Device Execution**: Coordinated distributed processing
+- **Tensor Sharding**: Efficient large tensor distribution strategies
+- **Pipeline Parallelism**: Sequential processing across devices
+- **Communication Patterns**: Optimized inter-device protocols
+- **Memory Management**: Cross-device memory coordination
+- **Collective Operations**: Distributed communication patterns
+
+### 🧪 [Testing & Validation Architecture](testing-validation-architecture.md)
+Comprehensive testing and quality assurance:
+- **Testing Framework**: Multi-layered testing approach
+- **Model Validation**: Systematic correctness verification
+- **Backend Compatibility**: Cross-backend testing strategies
+- **Continuous Integration**: Automated testing pipelines
+- **Performance Testing**: Benchmarking and monitoring
+- **Quality Assurance**: End-to-end reliability workflows
+
+### 🔒 [Security & Privacy Architecture](security-privacy-architecture.md)
+Model protection and privacy preservation:
+- **Security Framework**: Multi-layered protection approach
+- **Model Integrity**: Cryptographic verification and authentication
+- **Privacy-Preserving Inference**: Advanced privacy techniques
+- **Secure Execution**: Isolated and protected environments
+- **Adversarial Defense**: Attack detection and mitigation
+- **Threat Modeling**: Systematic risk assessment
+
+### 🚀 [Deployment & Integration Architecture](deployment-integration-architecture.md)
+Production deployment and framework integration:
+- **Deployment Ecosystem**: Edge, cloud, and hybrid patterns
+- **Cloud Deployment**: Scalable cloud deployment strategies
+- **Edge Deployment**: Resource-optimized edge deployment
+- **Framework Integration**: Seamless ecosystem integration
+- **Model Lifecycle**: Complete development-to-retirement workflow
+- **MLOps Integration**: DevOps practices and CI/CD pipelines
+
 ## Diagram Features
 
 All architecture diagrams are created using **Mermaid**, providing:
